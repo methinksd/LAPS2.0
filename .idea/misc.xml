@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/background_splashscreen.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/editext_background.xml" value="0.117" />
         <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.13359375" />
         <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.14453125" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.19270833333333334" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_maps.xml" value="0.19270833333333334" />
       </map>
     </option>

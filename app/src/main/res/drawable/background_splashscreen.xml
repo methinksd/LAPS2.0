@@ -4,5 +4,4 @@
     <item>
         <bitmap android:src="@drawable/laps_logo___original___5000x5000" android:gravity="center"/>
     </item>
-
 </layer-list>
