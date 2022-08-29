@@ -6,7 +6,7 @@
         <entry key="app/src/main/res/drawable/background_splashscreen.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/button_background.xml" value="0.19" />
         <entry key="app/src/main/res/drawable/editext_background.xml" value="0.117" />
-        <entry key="app/src/main/res/drawable/menu_background.xml" value="0.123" />
+        <entry key="app/src/main/res/drawable/menu_background.xml" value="0.1" />
         <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.13359375" />
         <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.14453125" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
